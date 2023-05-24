@@ -10,6 +10,10 @@ Avoid the obstacles. If you run into one. The game will be restarted and your sc
 
 Go into Game Folder to run the game.
 
+## Video
+
+https://drive.google.com/file/d/1wQXbfSWgsxfXkk6hWpeXASijpQfGL7_v/view
+
 ## Implementation
 
 Engine: Unreal Engine 5.1
